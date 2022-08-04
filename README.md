@@ -45,4 +45,3 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC374386/#:~:text=The%20most%20common
 
 https://www.geeksforgeeks.org/gradient-descent-in-linear-regression/
 
-investopedia.com/terms/l/least-squares-method.asp#:~:text=The%20least%20squares%20method%20is%20a%20statistical%20procedure%20to%20find,the%20behavior%20of%20dependent%20variables.
